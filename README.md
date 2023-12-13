@@ -1,3 +1,6 @@
+# Updates
+Sunsetting this as I no longer have any device to test. Please seek alternatives :)
+
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
 
